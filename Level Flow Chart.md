@@ -1,3 +1,5 @@
+```mermaid
+
 graph TD
     Start[Game Start] --> Tutorial[Tutorial Stages]
     Tutorial --> Chapter1[Chapter 1: The Awakening]
@@ -55,3 +57,4 @@ graph TD
     C2S5 -->|Unlock condition: Complete all Chapter 2 stages & Player Level 10| Chapter3
     Chapter2 -->|Unlock condition: Player Level 5| PvPArena
     Chapter3 -->|Unlock condition: Player Level 15| GuildRaids
+```

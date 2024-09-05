@@ -1,3 +1,5 @@
+```mermaid
+
 stateDiagram-v2
     direction LR
     [*] --> TitleScreen
@@ -82,3 +84,4 @@ stateDiagram-v2
     note left of CharacterSystem : Character progression and management occurs here
     note left of Shop : In-game purchases and economy management
     note left of Inventory : Item and character management
+```

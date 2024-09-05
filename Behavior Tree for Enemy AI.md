@@ -1,3 +1,5 @@
+```mermaid
+
 graph TD
     A[Root] --> B{Selector: Combat Role}
     B --> C{Tank Behavior}
@@ -85,3 +87,4 @@ graph TD
     AP --> AQ{Special Event Active?}
     AQ -->|Yes| AR[Use Event-Specific Skills]
     AQ -->|No| AS[Standard Behavior]
+```

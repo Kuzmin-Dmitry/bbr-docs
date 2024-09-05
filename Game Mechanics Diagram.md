@@ -1,3 +1,5 @@
+```mermaid
+
 graph TD
     A[Core Gameplay] --> B[Combat System]
     A --> C[Character Collection]
@@ -64,3 +66,4 @@ graph TD
     G --> F3
     H --> F2
     I --> F
+```

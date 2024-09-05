@@ -1,3 +1,5 @@
+```mermaid
+
 graph TD
     A[Game Events] --> B[Time-based Events]
     A --> C[Player-triggered Events]
@@ -69,3 +71,4 @@ graph TD
     E3 --> G1
     F3 --> G1
     G2 --> C2
+```

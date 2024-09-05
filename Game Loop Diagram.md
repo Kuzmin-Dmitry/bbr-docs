@@ -1,3 +1,5 @@
+```mermaid
+
 flowchart LR
     A[Start Game] --> B[Main Menu]
     B --> C{Player Action}
@@ -121,3 +123,4 @@ flowchart LR
 
     AI1 --> AI2[Daily/Weekly Missions]
     AI2 --> AI3[Season Rewards]
+```
